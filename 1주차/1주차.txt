@@ -1,1 +1,4 @@
 
+AMD기반 - > WINDOWS기능 켜기/끄기 -> Hyper-V, windows Hypervisor Platform, Widnows Sandbox 해제
+            바이오스 접근 -> Advanced -> CPU COnfiguration -> SVM mode를 Enabled
+            Android Studio에서 Tools -> SDK Manager -> SDK Tools탭 -> Android Emulator Hypervisor Driver for AMD Processors를 선택한 후 Apply
