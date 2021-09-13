@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+  <EditText
+      android:id="@+id/edit1"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content" >
+  </EditText>
+   <Button
+      android:id="@+id/btnToast"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="글자 나타내기" />
+
+  <Button
+      android:id="@+id/btnHomepage"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="홈페이지 열기" />
+
+  <RadioGroup
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center" >
+
+    <RadioButton
+        android:id="@+id/rdoQ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="Q(10)" />
+
+    <RadioButton
+        android:id="@+id/rdoR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="R(11)" />
+  </RadioGroup>
+
+  <ImageView
+      android:id="@+id/ivAndroid"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:src="@drawable/stud3" />
+
+</LinearLayout>
