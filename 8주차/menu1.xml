@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/itemnum"
+        android:title="학번">
+    </item>
+    <item
+        android:id="@+id/itemname"
+        android:title="이름">
+    </item>
+    <item
+        android:id="@+id/iteminfo"
+        android:title="개발자 정보">
+    </item>
+
+</menu>
