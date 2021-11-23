@@ -1,1 +1,4 @@
 2021-11-22 강의내용
+
+AVD 실행시 실행기기 플레이스토어 확인
+cookandroid -> sdk -> platfrom-tools -> adb.exe 실행
