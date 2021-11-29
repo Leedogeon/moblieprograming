@@ -1,0 +1,17 @@
+구글 지도 이용
+
+https://webnautes.tistory.com/647
+
+SHA-1 인증서 지문코드 얻는법 https://blog.naver.com/julie2106/222503762508
+(경로는 개인이 설치할때 지정한곳)
+
+key 찾을때 오류발생시 https://kwonsaw.tistory.com/326
+
+번들 제일 아랫부분
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+추가후 Sync Now 반드시 클릭
+
+AndroidMainfest.xml 하단 API_KEY 부분에 생성한 자신의 키 입력
+
+메인파일 좌표수정
