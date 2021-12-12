@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="hurt1">긁힘</string>
+    <string name="hurt2">화상</string>
+    <string name="mail">개발자에게 문자전송</string>
+    <string name="camera">사진찍기</string>
+    <string name="gallery">갤러리</string>
+    <string name="kind">상처종류</string>
+    <string name="name">개발자 정보</string>
+    <string name="site">이동</string>
+    <string name="hurt3">습진</string>
+</resources>
